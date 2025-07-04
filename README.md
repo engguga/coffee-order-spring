@@ -18,10 +18,9 @@ API para simular pedidos personalizados de café, usando Java 21, Spring Boot e 
 
 ```bash
 # Clone o repositório
-git clone <url-do-seu-repo>
 cd coffee-order-spring
 
-# Compile e rode
+## Compile e rode
 mvn clean spring-boot:run
 
 🧪 Endpoints
